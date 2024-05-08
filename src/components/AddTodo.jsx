@@ -9,7 +9,7 @@ function AddTodo() {
           <input type="date" />
         </div>
         <div className="col-1">
-          <button type="button" class="btn btn-success mj-btn">
+          <button type="button" className="btn btn-success mj-btn">
             Add
           </button>
         </div>

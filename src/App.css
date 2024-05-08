@@ -1,0 +1,30 @@
+h1 {
+    font-weight: 700;
+    font-size: 35px;
+    margin: 10px 0 20px 0;
+    text-transform: uppercase;
+}
+
+input {
+    width: 100%;
+}
+
+.items-container {
+    text-align: left;
+}
+
+.mj-row {
+    margin: 10px 5px 10px 5px;
+}
+
+.mj-btn {
+    min-width: 5rem;
+}
+
+.mj-btn:hover {
+    transform: translateY(-3px);
+}
+
+.mj-btn:active {
+    transform: translateY(0);
+}
